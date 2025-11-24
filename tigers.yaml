@@ -1,8 +1,8 @@
 team: Tigers
 
-manager: Brenda
+manager: Thanos
 
-coach: Ruth
+coach: Ronan
 
 members:
 - Linda
@@ -14,5 +14,7 @@ members:
 - Park
 - Park
 - happy
+- Gamora
+- Nebula
 
-fetch:this
+
